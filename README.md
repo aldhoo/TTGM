@@ -1,0 +1,2 @@
+# TTGM
+Projek untuk lomba
